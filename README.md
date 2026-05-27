@@ -32,8 +32,6 @@ The CNA ecosystem provides a modular architecture composed of independent servic
 | DB CNA Scripts | Database schema and maintenance scripts | https://github.com/paicoretech/db-cna-scripts |
 
 ---
-
-# Architecture Overview
 <img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/6845c4ef-6543-48bd-a0b6-58e1d3d61d23" />
 
 
